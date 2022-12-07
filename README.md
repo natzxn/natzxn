@@ -10,6 +10,7 @@
  📫 How to reach me - **skrzypskanatalia@gmail.com**
 
  ⚡ My Hobbies **Photography, tennis, new technologies**
+ 
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -21,7 +22,8 @@
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-512.png" alt="sass" width="50" height="50"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png" alt="vs" width="50" height="50"/>
  
- 
- currently working on my HTML&SCSS and JS project: https://coffeeandgo.netlify.app
+ <h4 align="center">
+ 💻 Now working on my HTML&SCSS and JS project: https://coffeeandgo.netlify.app
+ </h4>
 
 
