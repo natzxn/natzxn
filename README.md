@@ -7,8 +7,6 @@
 
  🌱 I’m currently learning JavaScript
 
- 📫 How to reach me - **skrzypskanatalia@gmail.com**
-
  ⚡ My Hobbies **Photography, tennis, new technologies**
  
 </div>
