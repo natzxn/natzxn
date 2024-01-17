@@ -21,7 +21,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png" alt="vs" width="50" height="50"/>
  
  <h4 align="center">
- 💻 Now working on my HTML&SCSS and JS project: https://coffeeandgo.netlify.app
+ 💻
  </h4>
  
 
