@@ -5,7 +5,7 @@
 <h3 align="center">A future frontend developer from Poland</h3>
 <div align="center">
 
-  💻 I’m currently learning JavaScript
+  💻 I’m currently learning JavaScript and React
 
  ⚡ My Hobbies **Photography, tennis, new technologies**
  
