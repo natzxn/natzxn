@@ -1,4 +1,4 @@
-![image](https://github.com/natzxn/natzxn/assets/114617409/57e96c95-0735-4888-914e-4cef75237d4f)<div align="center">
+
 <img src="https://cdn1.iconfinder.com/data/icons/browser-35/64/coding-512.png" alt="icon" width="140" height="130" align="center">
 
 <h1 align="center">Hi👋, I'm Natalia</h1>
