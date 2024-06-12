@@ -19,6 +19,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="js" width="50" height="50"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/sass-512.png" alt="sass" width="50" height="50"/>
 <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png" alt="vs" width="50" height="50"/>
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/visualstudio-microsoft-webdesign-html-css-javascript-develop-512.png]" alt="tailwind" width="50" height="50"/>
  
 
 
