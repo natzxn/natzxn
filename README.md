@@ -2,7 +2,7 @@
 <img src="https://cdn1.iconfinder.com/data/icons/browser-35/64/coding-512.png" alt="icon" width="140" height="130" align="center">
 
 <h1 align="center">Hi👋, I'm Natalia</h1>
-<h3 align="center">A future frontend developer from Poland</h3>
+<h3 align="center">A junior frontend developer from Poland</h3>
 <div align="center">
 
   💻 I’m currently learning JavaScript and React
