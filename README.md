@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://cdn1.iconfinder.com/data/icons/browser-35/64/coding-512.png" alt="icon" width="140" height="130" align="center">
 
 <h1 align="center">Hi👋, I'm Natalia</h1>
 <h3 align="center">A junior frontend developer from Poland</h3>
